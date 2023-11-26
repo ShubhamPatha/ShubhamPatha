@@ -17,7 +17,7 @@ I thrive on challenges and am committed to staying updated with latest trend in 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ph2kG80SIck9G9tt7TNQQ_hwp2IqWCVJoayS2J0V1tg/edit](https://docs.google.com/document/d/1ph2kG80SIck9G9tt7TNQQ_hwp2IqWCVJoayS2J0V1tg/edit)
 
-<h3 align="left">Connect with me: ** shubhampathak1350@gmail.com **</h3>
+<h3 align="left">Connect with me: shubhampathak1350@gmail.com </h3>
 <p align="left">
 
 </p>
