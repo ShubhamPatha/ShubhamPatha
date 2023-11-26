@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **Music Streaming**
 
