@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-
+<p>
 Glad to see you here!
 I am a Java developer. I have learned skills such as API designs, database managment  and performance optimisation.
 I am passionate about delivering reliable solution that drives the success of applications. 
 My understanding with java framework - Sprigboot, coupled with deep understanding of server-side architecture, ensures that I can efficiently build and maintain backend components.
 I thrive on challenges and am committed to staying updated with latest trend in backend. 
-
+</p>
 - 🔭 I’m currently working on **Music Streaming**
 
 - 🌱 I’m currently learning **JAVA, SQL, HTML , CSS, REACT**
